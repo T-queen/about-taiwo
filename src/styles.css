@@ -94,3 +94,8 @@ p {
   width: 30px;
   height: 20px;
 }
+
+img {
+  width: fit-content;
+  height: auto;
+}
